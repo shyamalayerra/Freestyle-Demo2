@@ -1,7 +1,7 @@
 public class TestHello {
     public static void main(String[] args) {
         String expected = "Hello Jenkins , World";
-        String actual = "Hello Jenkins , World";
+        String actual = "Hello";
 
         if (expected.equals(actual)) {
             System.out.println("TEST PASSED");
